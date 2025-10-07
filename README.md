@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Mrfrulzraj/Dell-BIOS-Tools-V2/blob/d6c65b79e771078a3457f927fdb9bd0397991a47/dell_logo.ico" alt="Logo" width="200"/>
+</p>
 # Dell BIOS Tools V2.1
 
 A professional GUI application for Dell BIOS management, featuring BIOS unlocking and Service Tag extraction capabilities.
