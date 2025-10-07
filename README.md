@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Mrfrulzraj/Dell-BIOS-Tools-V2/blob/d6c65b79e771078a3457f927fdb9bd0397991a47/dell_logo.ico" alt="Logo" width="200"/>
+  <img src="https://github.com/Mrfrulzraj/Dell-BIOS-Tools-V2/blob/5ecf11fc2f09a52d619f42b18cf55e98d4cd8bda/logo.png" alt="Logo" width="200"/>
 </p>
 # Dell BIOS Tools V2.1
 
